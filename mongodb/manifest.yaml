@@ -21,6 +21,6 @@ spec:
         component: mongodb
         tier: db
     spec:
-      conatiners:
+      containers:
       - name: mongodb
         image: anilroyal8999/mongodb:v1
