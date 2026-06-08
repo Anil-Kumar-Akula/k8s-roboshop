@@ -1,0 +1,3 @@
+sudo git clone https://github.com/ahmetb/kubectx /opt/kubectx  # installations
+sudo ln -s /opt/kubectx/kubens /usr/local/bin/kubens 
+kubens roboshop # every time you no need to give kubectl get pods -n roboshop
